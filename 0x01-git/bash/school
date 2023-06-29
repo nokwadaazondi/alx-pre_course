@@ -1,4 +1,3 @@
 #!/bin/bash
 echo "School"
-root@1ff8ce8bc520:/alx-pre_course/0x01-git/bash# git add .
-clear
+
